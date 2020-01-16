@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Current Location</string>
+    <string name="maps_key" translatable="false">AIzaSyBXZkFC062eE2SlE038v3DTJFZKufbRE5Q</string>
+</resources>
